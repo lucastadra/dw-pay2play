@@ -28,7 +28,7 @@ Trabalho acadêmico de gerenciamento de pagamentos de mensalistas de futebol rea
 - PUT /api/jogadores/id --> edita um jogador específico<br />
 - DELETE /api/jogadores/id --> deleta um jogador específico<br />
 - DELETE /api/jogadores --> deleta todos os jogadores<br />
-<br />
+
 #### Pagamento: <br />
 - GET /api/pagamentos --> lista os pagamentos<br />
 - GET /api/pagamentos/id --> lista pagamento específico<br />
